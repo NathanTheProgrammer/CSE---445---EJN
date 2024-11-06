@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nnaba\\source\\repos\\WebApplication - CSE445 - EJN\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\nnaba\\source\\repos\\CSE---445---EJN\\WebApplication - CSE445 - EJN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B446E90-7B20-4F15-A0FA-29355EE731F2}|WebApplication - CSE445 - EJN\\WebApplication - CSE445 - EJN.vbproj|c:\\users\\nnaba\\source\\repos\\cse---445---ejn\\webapplication - cse445 - ejn\\webapplication - cse445 - ejn\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9B446E90-7B20-4F15-A0FA-29355EE731F2}|WebApplication - CSE445 - EJN\\WebApplication - CSE445 - EJN.vbproj|solutionrelative:webapplication - cse445 - ejn\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\nnaba\\source\\repos\\CSE---445---EJN\\WebApplication - CSE445 - EJN\\WebApplication - CSE445 - EJN\\packages.config",
+              "RelativeDocumentMoniker": "WebApplication - CSE445 - EJN\\packages.config",
+              "ToolTip": "C:\\Users\\nnaba\\source\\repos\\CSE---445---EJN\\WebApplication - CSE445 - EJN\\WebApplication - CSE445 - EJN\\packages.config",
+              "RelativeToolTip": "WebApplication - CSE445 - EJN\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-06T02:02:14.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
